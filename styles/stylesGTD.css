@@ -1,0 +1,31 @@
+body{
+    background-image: url('/img/fondo.png');
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.agregar{
+    background-color:#3E85C3;
+}
+.agregar:hover{
+    background-color:#1c6cb3;
+}
+#btnTerminado{
+    background-color: #9c9c98;
+}
+.fomulario{
+    margin-top: 20px;
+    background-color: #434344;
+    padding-left: 10px;
+
+
+}
+.radio{
+    color: rgb(229, 226, 226);
+}
+.pBold{
+    font-weight: bold;
+    font-size: 21px;
+}
